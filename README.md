@@ -1,7 +1,11 @@
 # Chatroom using java and java.swing
 #21-04-2023
 
-Abstract
+Run client for execution
+
+
+Abstract:
+
 This report discuss the development of java project named Chatroom. The Chatroom has a client and server named Goku and Shubh. The chatroom allows user to communicate with each other in real-time using java Socket API and Swing library. The server manages the connections and communication between clients , while the client connects server and sends and receive messages.  The chatroom GUI consists of a text area with background pic to display incoming and outgoing messages ,A text field to enter outgoing messages , a button to send messages to server . The chatroom also has panel for profile picture, calling and status. The Chatroom can be further improved by implementing features such as file Sharing , private messaging , login page and user authentication. Overall the development of this Java mini project Chatroom was a great experience and a good opportunity to learn java and java swing library.
 
 
